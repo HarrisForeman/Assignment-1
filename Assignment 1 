@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+   <title>
+     Harris Foreman Design
+   </title>
+
+   <link rel="stylesheet" href="styles.css" />
+
+  </head>
+
+<body>
+
+  <div class="header">
+
+    <div class="nav">
+
+      <div class="logo">
+        SINGOLO<span class="salmon">*</span>
+      </div>
+
+
+      <div class="links"/>
+
+        <a href="#"> HOME</a>
+        &bull;
+        <a href="#"> SERVICES</a>
+        &bull;
+        <a href="#"> PORTFOLIO</a>
+        &bull;
+        <a href="#"> ABOUT</a>
+        &bull;
+        <a href="#"> CONTACT</a>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+  <div class="banner">
+
+    <img src="images/banner.png" alt="mobile designs" />
+
+  </div>
+
+
+  <div class="services">
+    Our Services
+    <p> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh. </p>
+
+<div class="serviesboxes" >
+
+    <div class="serviceboxpencil">
+
+      <div class="servicetitle">
+        <img src="Services icons/pencil.png" alt="service icon" />
+
+        Custom Design
+
+        <div class="servicetext"/>
+          tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf </p>
+        </div>
+
+      </div>
+
+
+      </div>
+
+      <div class="serviceboxlightbulb">
+
+        <div class="servicetitle">
+          <img src="Services icons/lightbulb.png" alt="service icon" />
+          Inovative Ideas
+
+          <div class="servicetext">
+            tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf </p>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="serviceboxheart">
+
+        <div class="servicetitle">
+          <img src="Services icons/heart.png" alt="service icon" />
+          Love Is The Answer
+
+          <div class="servicetext">
+            tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf </p>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="serviceboxphone">
+
+        <div class="servicetitle">
+          <img src="Services icons/phone.png" alt="service icon" />
+          Responsive Layout
+
+          <div class="servicetext">
+            tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf </p>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="serviceboxspeech">
+
+        <div class="servicetitle">
+          <img src="Services icons/speech.png" alt="service icon" />
+          24/7 Support
+
+          <div class="servicetext">
+            tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf </p>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="serviceboxstar">
+
+        <div class="servicetitle">
+          <img src="Services icons/star.png" alt="service icon" />
+          Feel Like A Star
+
+          <div class="servicetext">
+            tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf </p>
+          </div>
+
+        </div>
+
+      </div>
+
+      </div>
+
+    </div>
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+<div class="PortfolioBG"
+
+  <div class="portfolio">
+
+    Portfolio
+
+    <p> tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf</p>
+
+  </div>
+
+</div>
+
+</body>
+
+</html>
